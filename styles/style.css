@@ -176,6 +176,7 @@ fieldset {
 
 .button:active {
   background-color: #545050;
+  text-decoration: none;
 }
 
 .button:focus {
@@ -307,6 +308,7 @@ fieldset {
 
 .content__card-link:active {
   background-color: #545050;
+  text-decoration: none;
 }
 
 .content__list-item {
